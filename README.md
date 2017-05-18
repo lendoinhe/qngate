@@ -1,0 +1,2 @@
+# qngate
+bitcoin
